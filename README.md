@@ -2,8 +2,8 @@
 
 It is under development. 
 
-* [Pokemanki(Original)](https://ankiweb.net/shared/info/633922407)  
-* [Pokemanki(Second)](https://ankiweb.net/shared/info/1041307953)  
+* [Pokemanki(Original)](https://ankiweb.net/shared/info/633922407)  [BlueGreenMagick](https://ko-fi.com/bluegreenmagick)
+* [Pokemanki(Second)](https://ankiweb.net/shared/info/1041307953)   [zjosua](https://github.com/zjosua)
 
 [![banner_BugReport (2)](https://github.com/shigeyukey/TodayAgainCount/assets/124401518/dd5219e6-4561-4b53-90ae-e5441e95edfb)](https://github.com/shigeyukey/Pokemanki-Gold/issues)  
 
