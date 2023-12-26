@@ -18,7 +18,7 @@ This Pokemanki Gold is the third version on AnkiWeb and is based on Zjosua's Pok
 Pokemanki uses [Libaddon](https://github.com/glutanimate/anki-libaddon/) by [Glutanimate](https://glutanimate.com/tip-jar/). <br>
 
 ## 2. Purpose of developing this add-on <br>
-When I asked for ideas for gamification add-ons on Reddit, there was a request to fix Pokemanki. The original pokemunki has already been fixed by [ Zjosua](https://ankiweb.net/shared/info/1041307953), so I plan to customize it and play with it.(I still don't understand how to use Github)
+When I asked for ideas for gamification add-ons on Reddit, there was a request to fix Pokemanki. At the moment, I am testing the addition of prototype features to see if they work properly.
 
 ## 3. Bug Report
 This AnkiWeb comment does not notify me,<br>
