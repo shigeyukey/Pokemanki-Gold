@@ -12,8 +12,8 @@
 ## 1. Various Pokemanki
 
 This Pokemanki Gold is the third version on AnkiWeb and is based on Zjosua's Pokemanki_v1.3.0. If this Pokemanki Gold does not work well, try them. <br>
-1. [Pokemanki (Original) ](https://ankiweb.net/shared/info/633922407) / [Author : BlueGreenMagick](https://ko-fi.com/bluegreenmagick) ▲It seems that it has not been updated since 2021.
-1. [Pokémanki (Second) ](https://ankiweb.net/shared/info/1041307953) / [Author : Zjosua](https://github.com/zjosua) ★The most developed and regularly updated.
+1. [Pokemanki (Original) ](https://ankiweb.net/shared/info/633922407) / [Author : BlueGreenMagick](https://ko-fi.com/bluegreenmagick) ▲It seems that it has not been updated since 2021. Works fine with Anki 2.1.48.
+1. [Pokémanki (Second) ](https://ankiweb.net/shared/info/1041307953) / [Author : Zjosua](https://github.com/zjosua) ★The most developed and regularly updated. Works fine with the latest Anki.
 
 Pokemanki uses [Libaddon](https://github.com/glutanimate/anki-libaddon/) by [Glutanimate](https://glutanimate.com/tip-jar/). <br>
 
