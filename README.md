@@ -6,7 +6,7 @@
 
 ![banner_Pokemanki](https://github.com/shigeyukey/Pokemanki-Gold/assets/124401518/a8a40754-a838-4020-ab3c-ac3fda932f8a)
 
-[ Add-on Code ```1677779223``` ]
+[ Add-on Code : ```1677779223``` ]
 
 
 ## 1. Various Pokemanki
