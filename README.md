@@ -23,11 +23,11 @@ When I asked for ideas for gamification add-ons on Reddit, there was a request t
 ## 3. Q & A
 
 #### Q. How do I access my pokemon?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;
 A. Try go to "State" and press "collection" instead of "deck".<br>
-
 #### Q. I cannot select my first Pokémon.<br>
-A. Try setting Pokemanki to tags instead of decks, maybe it will work.<br>
-* Tools -> Decks vs Tags -> Tags<br>
+&nbsp;&nbsp;&nbsp;&nbsp; A. Try setting Pokemanki to tags instead of decks, maybe it will work.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Tools -> Decks vs Tags -> Tags<br>
 
 ## 4. Bug Report
 
