@@ -1,7 +1,3 @@
-[ Pokemanki Golde Ϟ(๑⚈ ․̫ ⚈๑)⋆ (AnkiWeb) ](https://ankiweb.net/shared/info/1677779223?cb=1703543833902) <br>
-
-### Pokemanki Golde Ϟ(๑⚈ ․̫ ⚈๑)⋆  <br><br>
-
 [![banner_shigeyuki_2](https://github.com/shigeyukey/Pokemanki-Gold/assets/124401518/8408c164-e95c-4e40-98c1-393b03e04bcb)](https://www.reddit.com/user/Shige-yuki)   <br>
 
 ![banner_Pokemanki](https://github.com/shigeyukey/Pokemanki-Gold/assets/124401518/a8a40754-a838-4020-ab3c-ac3fda932f8a)
@@ -46,6 +42,4 @@ If you have any interesting game add-on ideas, please tell me so I can develop t
 [![button_hard (3)](https://github.com/shigeyukey/AnkiRestart/assets/124401518/0d61d5c5-1824-4b69-9602-53f2ddd8672f)](https://www.reddit.com/user/Shige-yuki)
 [![button_good (3)](https://github.com/shigeyukey/AnkiRestart/assets/124401518/ef42457f-10d2-4235-aa05-2691f3e7731d)](https://ankiweb.net/shared/review/1677779223)
 [![button_easy (3)](https://github.com/shigeyukey/AnkiRestart/assets/124401518/8943bf9c-1aa6-490c-bf86-0ec29d5f4221)](http://patreon.com/Shigeyuki)
-
-
 
