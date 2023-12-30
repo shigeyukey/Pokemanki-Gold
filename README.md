@@ -20,13 +20,13 @@ Pokemanki uses [Libaddon](https://github.com/glutanimate/anki-libaddon/) by [Glu
 ## 2. Purpose of developing this add-on <br>
 When I asked for ideas for gamification add-ons on Reddit, there was a request to fix Pokemanki. At the moment, I am testing the addition of prototype features to see if they work properly.
 
-## 3. Q & A
+## 3. Frequently Asked Question
 
-&nbsp;&nbsp;Q. How do I access my pokemon?<br>
+&nbsp;&nbsp;Q1. How do I access my pokemon?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;
 A. Try go to "State" and press "collection" instead of "deck".<br>
 
-&nbsp;&nbsp;Q. I cannot select my first Pokémon.<br>
+&nbsp;&nbsp;Q2. I cannot select my first Pokémon.<br>
 &nbsp;&nbsp;&nbsp;&nbsp; A. Try setting Pokemanki to tags instead of decks, maybe it will work.<br>
 &nbsp;&nbsp;&nbsp;&nbsp; Tools -> Decks vs Tags -> Tags<br>
 
