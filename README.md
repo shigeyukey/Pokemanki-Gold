@@ -20,13 +20,23 @@ Pokemanki uses [Libaddon](https://github.com/glutanimate/anki-libaddon/) by [Glu
 ## 2. Purpose of developing this add-on <br>
 When I asked for ideas for gamification add-ons on Reddit, there was a request to fix Pokemanki. At the moment, I am testing the addition of prototype features to see if they work properly.
 
-## 3. Bug Report
+## 3. Q & A
+
+#### Q. How do I access my pokemon?<br>
+A. Try go to "State" and press "collection" instead of "deck".<br>
+
+#### Q. I cannot select my first Pokémon.<br>
+A. Try setting Pokemanki to tags instead of decks, maybe it will work.<br>
+* Tools -> Decks vs Tags -> Tags<br>
+
+## 4. Bug Report
+
 This AnkiWeb comment does not notify me,<br>
 so if you are in a hurry please contact me directly.<br>
 ([Reddit](https://www.reddit.com/user/Shige-yuki), [AnkiForums](https://forums.ankiweb.net/u/shigeyuki/summary), [Github](https://github.com/shigeyukey/Pokemanki-Gold/issues)) <br> 
 [![banner_BugReport (2)](https://github.com/shigeyukey/TodayAgainCount/assets/124401518/dd5219e6-4561-4b53-90ae-e5441e95edfb)](https://github.com/shigeyukey/Pokemanki-Gold/issues)   <br>
 
-## 4. Other
+## 5. Other
 I am developing gamification add-ons for Anki.(Not related to the official Anki.)<br>
 If you have any interesting game add-on ideas, please tell me so I can develop them.<br>
 [![Patreon_banner (2)](https://github.com/shigeyukey/AnkiRestart/assets/124401518/59809ec6-dd1a-4cb6-a64d-0990b75b4151)](http://patreon.com/Shigeyuki)  
