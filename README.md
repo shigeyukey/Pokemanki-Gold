@@ -33,10 +33,15 @@ so if you are in a hurry please contact me directly.<br>
 ([Reddit](https://www.reddit.com/user/Shige-yuki), [AnkiForums](https://forums.ankiweb.net/u/shigeyuki/summary), [Github](https://github.com/shigeyukey/Pokemanki-Gold/issues)) <br> 
 [![banner_BugReport (2)](https://github.com/shigeyukey/TodayAgainCount/assets/124401518/dd5219e6-4561-4b53-90ae-e5441e95edfb)](https://github.com/shigeyukey/Pokemanki-Gold/issues)   <br>
 
+
+
+
 ## 5. Other
 I am developing gamification add-ons for Anki.(Not related to the official Anki.)<br>
 If you have any interesting game add-on ideas, please tell me so I can develop them.<br>
-[![Patreon_banner (2)](https://github.com/shigeyukey/AnkiRestart/assets/124401518/59809ec6-dd1a-4cb6-a64d-0990b75b4151)](http://patreon.com/Shigeyuki)  
+
+[![Patreon_banner_3_mini](https://github.com/shigeyukey/Pokemanki-Gold/assets/124401518/7f700af6-90f0-4a05-b0fe-c3a4524c2c8d)](http://patreon.com/Shigeyuki)  
+
 
 [![button_again (3)](https://github.com/shigeyukey/AnkiRestart/assets/124401518/7c1a661a-7932-4a19-a4bc-4000f9fd738a)](https://github.com/shigeyukey/Pokemanki-Gold/issues)
 [![button_hard (3)](https://github.com/shigeyukey/AnkiRestart/assets/124401518/0d61d5c5-1824-4b69-9602-53f2ddd8672f)](https://www.reddit.com/user/Shige-yuki)
